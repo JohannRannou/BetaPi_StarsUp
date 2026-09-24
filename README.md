@@ -1,10 +1,10 @@
 
-# Soirée d'observation le **26/09** à **21h**, place Janssen.
+# Soirée d'observation le **26/09** à **21h**, étang du Hangar Y
 
 
 
 
-📍 [Voir sur la carte](https://maps.app.goo.gl/8UGnE79FmDNc6V7m8)
+📍 [Voir sur la carte](https://maps.app.goo.gl/eCRoR46e7TBXC64e7)
 
 
 
