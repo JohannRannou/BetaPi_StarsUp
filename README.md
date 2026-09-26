@@ -8,7 +8,7 @@
 
 
 
-## Statut : 🟢 Prévisions météo mitigiées mais la **soirée maintenue** jusqu'à nouvel ordre
+## Statut : 🟢 Prévisions météo mitigiées mais la **soirée est maintenue** jusqu'à nouvel ordre
 
 
 L'observation de Lune et de Saturne peut se faire dans des conditions dégradées.
