@@ -8,8 +8,10 @@
 
 
 
-## Statut : 🟢 Météo favorable — **soirée maintenue**
+## Statut : 🟢 Prévisions météo mitigiées mais la **soirée maintenue** jusqu'à nouvel ordre
 
+
+L'observation de Lune et de Saturne peut se faire dans des conditions dégradées.
 
 <table>
 <tr>
